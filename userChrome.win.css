@@ -147,6 +147,12 @@ urlbar_popup_full_width.css is VERY MUCH recommended for Firefox 71+ because of 
   visibility: collapse !important;
 }
 
+/* adjust flexible space sizing */
+#nav-bar toolbarspring {
+  min-width: 68px !important;
+  max-width: 400px !important;
+}
+
 /* autohide forward button */
 #forward-button {
   transform: scale(1, 1) !important;

@@ -27,9 +27,10 @@
   visibility: collapse !important;
 }
 
+/* adjust flexible space sizing */
 #nav-bar toolbarspring {
-  min-width: 25px !important;
-  max-width: 25px !important;
+  min-width: 68px !important;
+  max-width: 400px !important;
 }
 
 /* autohide forward button */
