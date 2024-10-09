@@ -27,6 +27,11 @@
   visibility: collapse !important;
 }
 
+#nav-bar toolbarspring {
+  min-width: 25px !important;
+  max-width: 25px !important;
+}
+
 /* Hide border on tab bar, force its state to 'scroll', adjust margin-left for width of scrollbar. */
 #tabbar {
   border: 0;
