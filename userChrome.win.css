@@ -61,8 +61,8 @@ urlbar_popup_full_width.css is VERY MUCH recommended for Firefox 71+ because of 
 }
 
 #navigator-toolbox > #nav-bar {
-  margin-right: calc(47vw - var(--uc-navigationbar-width));
-  /* margin-right: 125px; */
+  /* margin-right: calc(47vw - var(--uc-navigationbar-width)); */
+  margin-right: 135px;
   margin-top: calc(0px - var(--uc-toolbar-height));
 }
 
