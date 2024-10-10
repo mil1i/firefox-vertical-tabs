@@ -206,6 +206,13 @@ tab-item:not(.subtree-collapsed) .counter {
   content: "🔇";
 }
 
+/* Find Bar - TOP */
+.browserContainer > findbar {
+  order: -1;
+  border-top: none !important;
+  border-bottom: 1px solid ThreeDShadow !important;
+}
+
 /* SIDEBERRY */
 
 /*   Hide Tab bar if Sidebery is Active   */
