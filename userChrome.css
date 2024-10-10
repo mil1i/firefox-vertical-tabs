@@ -210,7 +210,8 @@ tab-item:not(.subtree-collapsed) .counter {
 .browserContainer > findbar {
   order: -1;
   border-top: none !important;
-  border-bottom: 1px solid ThreeDShadow !important;
+  border-bottom: none !important;
+  /* border-bottom: 1px solid ThreeDShadow !important; */
 }
 
 /* SIDEBERRY */
